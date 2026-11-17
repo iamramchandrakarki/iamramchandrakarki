@@ -1,11 +1,10 @@
 # Ramchandra Karki
 
-I'm a full-stack developer. I build web interfaces with React and TypeScript and work with Go on the backend.
+I'm a full-stack developer building web applications from interface to database. I work with React, Next.js, TypeScript, Go, and PostgreSQL.
 
-## Selected projects
+## Selected work
 
-- [Portfolio](https://github.com/iamramchandrakarki/Portfolio) · Personal portfolio built with React, Vite, and Tailwind CSS.
-- [Dashboard](https://github.com/iamramchandrakarki/Dashboard) · A React and TypeScript dashboard prototype with bar and radial charts built with Recharts.
-- [Chautari](https://github.com/iamramchandrakarki/Chautari) · An Android app for managing projects, built with Kotlin, Firebase Authentication, and SQLite.
+- [Pesha](https://ramchandrakarki.com.np/work/pesha) · A job discovery product I'm building across the frontend and backend.
+- [Drivesro](https://ramchandrakarki.com.np/work/drivesro) · A client project I built independently, including the online learning interface and backend.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/ramchandra-karki-9a2921269)
+[Portfolio website](https://ramchandrakarki.com.np/) · [LinkedIn](https://www.linkedin.com/in/ramchandra-karki-9a2921269)
